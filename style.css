@@ -1,3 +1,9 @@
+body {
+    background-image: url(./52915730-healthy-fruits-background-studio-photo-of-different-fruits-on-wooden-table.jpg);
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+}
+
 .Machine {
     margin: auto;
     width: 50%;
